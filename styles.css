@@ -1,0 +1,46 @@
+
+body{font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 23px;}
+
+header{background-color: rgb(103, 235, 110);}
+
+nav{display: inline-block;
+width: 80%;
+background-color: rgb(167, 219, 176);
+text-decoration: overline;}
+
+nav img{width: 10%;}
+
+main{background-color: rgb(202, 223, 235);
+font-size: 20px;}
+
+footer{background-color:rgb(143, 110, 68) ;}
+
+ul{text-decoration-color: olivedrab ;
+display: flex;
+justify-content:space-evenly;}
+
+/*li{display:inline ;
+height: 40px;}*/
+
+h1{text-align: center;
+font-family: 'Times New Roman', Times, serif;
+color: maroon;
+}
+
+p{line-height: 30px;}
+
+div.grid{ display: grid;
+grid-template-columns: 40% 40%; /*two equal columns*/
+justify-content:left;
+align-items:left;
+row-gap: 0.5%;
+width: 100%;}
+
+.current{text-transform:uppercase;
+background-color: rgb(233, 150, 117);
+}
+
+div.flex{display: flex;
+flex-wrap: wrap;
+justify-content:center;}
