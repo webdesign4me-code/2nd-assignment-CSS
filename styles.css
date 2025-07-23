@@ -6,7 +6,7 @@ header{background-color: rgb(103, 235, 110);}
 
 nav{display: inline-block;
 width: 80%;
-background-color: rgb(167, 219, 176);
+background-color: rgb(190, 230, 196);
 text-decoration: overline;}
 
 nav img{width: 10%;}
@@ -14,7 +14,7 @@ nav img{width: 10%;}
 main{background-color: rgb(202, 223, 235);
 font-size: 20px;}
 
-footer{background-color:rgb(143, 110, 68) ;}
+footer{background-color:rgb(206, 151, 79) ;}
 
 ul{text-decoration-color: olivedrab ;
 display: flex;
@@ -38,7 +38,7 @@ row-gap: 0.5%;
 width: 100%;}
 
 .current{text-transform:uppercase;
-background-color: rgb(233, 150, 117);
+background-color: rgb(188, 221, 66);
 }
 
 div.flex{display: flex;
